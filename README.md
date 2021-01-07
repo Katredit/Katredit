@@ -14,7 +14,13 @@
 
 
 
-<img align="left" alt="Katredit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Katredit&show_icons=true&theme=dark" />
+<img align="left" alt="Katredit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Katredit&show_icons=true&theme=dark" /> |
+
+
+
+
+
+
 
 <h3>2020</h2>
 <details>
