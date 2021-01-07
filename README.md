@@ -43,10 +43,10 @@
 
 - Learned CSS
 
-- Learned some Javascript
+- Learned Some Javascript
 
-- Learned some C++
+- Learned Some C++
 
-- Learned some C#
+- Learned Some C#
 
 </details>
