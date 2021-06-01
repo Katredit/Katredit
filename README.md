@@ -7,7 +7,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katredit&layout=compact&theme=dark&card_width=350)](https://github.com/Katredit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katredit&theme=dark&hide_border=true&layout=compact)](https://github.com/Katredit)
 
 
 
