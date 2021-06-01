@@ -12,7 +12,7 @@
 
 
 
-<img align="left" alt="Katredit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Katredit&show_icons=true&theme=dark" />
+<img align="left" alt="Katredit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Katredit&show_icons=true&theme=dark&hide_border=true&layout=compact" />
 
 
 <br>
