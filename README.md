@@ -2,8 +2,6 @@
 #### (email: ardadonmezk@gmail.com)
 
 <br />
-<br />
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katredit&theme=dark&hide_border=true&layout=compact)](https://github.com/Katredit)
