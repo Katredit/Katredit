@@ -2,7 +2,7 @@
 #### (email: ardadonmezk@gmail.com)
 
 ### Hi i am Arda, i am 16 years old. I'm studying high school in Turkey.<br/>
-### I started coding in 2019
+### I started coding in 2019 June
 
 <br />
 
@@ -23,28 +23,63 @@
 <br>
 <br>
 <br>
+<br>
 
 ## Languages
 
 
-<h3>2020</h2>
+<h3>2019 June</h2>
 <details>
   <summary>Expand</summary>
 
 - Learned LUA
 
-- Learned OOP for LUA
-
+- Learned MTA
+  
 - Learned MySQL
 
 - Learned HTML
 
 - Learned CSS
 
-- Learned Some Javascript
+- Learned some Javascript
 
-- Learned Some C++
+</details>
 
-- Learned Some C#
+<h3>2020</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Learned OOP for LUA
+  
+- Learned a lot of Javascript
+
+- Learned some VueJS
+
+- Learned some ElectronJS
+
+- Learned some PHP
+
+</details>
+
+<h3>2021</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Learned a lot of Javascript
+
+- Learned NodeJS
+
+- Learned VueJS
+
+- Learned ExpressJS and Axios
+
+- Learned ElectronJS
+
+- Learned MongoDB
+
+- Learned PHP
+
+- I learning Alt:V
 
 </details>
