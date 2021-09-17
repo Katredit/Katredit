@@ -80,6 +80,6 @@
 
 - Learned PHP
 
-- I learning Alt:V
+- I am learning Alt:V
 
 </details>
