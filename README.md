@@ -1,7 +1,7 @@
 ## Hello World! My name is Arda
 #### (email: ardadonmezk@gmail.com)
 
-### Hi i am Arda, i am 16 years old. I'm studying high school in Turkey.<br/>
+### Hi i am Arda. I'm studying high school in Turkey.<br/>
 ### I started coding in 2019 June
 
 <br />
